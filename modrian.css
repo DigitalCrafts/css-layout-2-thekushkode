@@ -1,0 +1,77 @@
+/* css */
+
+.div_col {
+    display: flex;
+    flex-direction: column;
+}
+
+.div_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border: 5px solid black
+}
+
+.square_min_left {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.square_min_right {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-left: 5px solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.square_min_top {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.square_min_bottom {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-left: 5px solid black;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.square_min_right_left {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.square_min_top_bottom {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.blue {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(32, 142, 233);
+    border: 5px solid black;
+}
