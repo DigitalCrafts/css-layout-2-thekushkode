@@ -1,0 +1,205 @@
+.outline {
+    height: 60vw;
+    border: 8px solid #444;
+    display: flex
+}
+
+
+.has_border {
+    border: 4px solid #444;
+}
+
+.has_bottom_border {
+    border-bottom: 4px solid #444;
+}
+
+.has_right_border {
+    border-right: 4px solid #444;
+}
+
+.has_border_left {
+    border-left: 4px solid #444;
+}
+
+.lev_1a, .leb_1b {
+    width: 50%;
+    display: flex
+}
+
+.lev_2a {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.lev_2a1 {
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+
+.lev2a1_1_1 {
+    width: 40%;
+}
+
+.lev2a1_1_2 {
+    width: 60%;
+}
+
+.lev_2ba {
+    height: 20%;
+    width: 100%;
+    display: flex;
+}
+
+.lev_2ba1 {
+    width: 30%
+}
+
+.lev_2ba2 {
+    width: 70%;
+    background-color: red;
+}
+
+.lev_2bb {
+    height: 20%;
+    display: flex;
+}
+
+.lev_2bc {
+    height: 10%;
+    display: flex;
+}
+
+.lev_2bc1 {
+    width: 30%;
+    border-bottom: 4px solid black;
+}
+
+.lev_2bc2 {
+    width: 35%;
+    border-left: px solid #444;
+    background-color: #444;
+}
+
+.lev_2bc3 {
+    width: 35%
+}
+
+.lev_2bd {
+    height: 10%;
+    display: flex;
+}
+
+.lev_2bd1 {
+    width: 30%;
+    background-color: yellow;
+}
+
+.lev_2bd2 {
+    width: 35%;
+    background-color: #444;
+}
+
+.lev_2bd3 {
+    width: 35%;
+}
+
+.lev_2be {
+    height: 10%;
+    display: flex;
+}
+
+.lev_2be1 {
+    width: 30%;
+    background-color: yellow;
+}
+
+.lev_2be2 {
+    width: 35%
+}
+
+.lev_2be3 {
+    width: 35%;
+    background-color: #444;
+}
+
+.lev_2bf {
+    height: 10%;
+    display: flex;
+}
+
+.lev_2bf1 {
+    width: 30%;
+    background-color: yellow;
+}
+
+.lev_2bf2 {
+    width: 35%;
+}
+
+.lev_2bf3 {
+    width: 17.5%;
+    background-color: yellow;
+}
+
+.lev_2bf4 {
+    width: 17.5%;
+}
+
+.lev_2bg {
+    height: 10%;
+    display: flex;
+}
+
+.lev_2bg1 {
+    width: 65%;
+}
+
+.lev_2bg2 {
+    width: 17.5%;
+    background-color: yellow;
+}
+
+.lev_2bg3 {
+    width: 17.5%
+}
+
+.lev_2b {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.lev_2b1 {
+    height: 10%;
+    background-color: yellow;
+}
+
+.lev_2b2 {
+    height: 20%;
+    background-color: yellow;
+}
+
+.lev_2b3 {
+    height: 20%;
+    display: flex;
+}
+
+.lev_2b3_a, .lev_2b3_b {
+    width: 50%;
+}
+
+.lev_2b4 {
+    height: 10%;
+}
+
+.lev_2b5 {
+    height: 20%;
+    background-color: steelblue;
+}
+
+.lev_2b6 {
+    height: 20%;
+    background-color: red;
+}
